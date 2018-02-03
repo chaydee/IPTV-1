@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.rsainformaticos.com/wp-content/uploads/2015/02/Guia-TV.png",▁ ▂ ▄ ▅ ▆☆ MIS*PELIS*TL ☆▆ ▅ ▄ ▂ ▁
-https://www.youtube.com/watch?v=xlLr1GrWcYA
-
-#EXTINF:-1 tvg-logo="https://static.diariouno.com.ar/adjuntos/212/imagenes/022/448/0022448213.png",EL PAJARO LOCO (2018)
-http://nerdecuador.com/12/?id=1twwG01uvof0iTHCSoaPgWl_JmMUaZwnz
-
-#EXTINF:-1 tvg-logo="http://www.ultrapeliculashd.com/wp-content/uploads/2017/10/r6MqWtJCyybGoP5LUxqNm7q9kwb-185x278.jpg",BLADE RUNNER 2049
-http://nerdecuador.com/12/?id=1nzmJ67sbKL9dipIOCxUpVHaP8divcUVE
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/BrightPoster.jpeg",BRIGHT 
-http://nerdecuador.com/12/?id=1n3B6mBmT3HA0DeodpiC-dAAlUgHxD823
 
 #EXTINF:-1,Wonder woman (2017)
 http://us.iptvlatino.xyz:25461/movie/dTNxQhOBao/tOXHqBIXZK/1759.mkv
@@ -614,13 +603,13 @@ http://us.iptvlatino.xyz:25461/movie/dTNxQhOBao/tOXHqBIXZK/1963.mkv
 https://www.youtube.com/watch?v=xlLr1GrWcYA
 
 #EXTINF:-1 tvg-logo="https://static.diariouno.com.ar/adjuntos/212/imagenes/022/448/0022448213.png",EL PAJARO LOCO (2018)
-https://drive.google.com/file/d/1twwG01uvof0iTHCSoaPgWl_JmMUaZwnz/view
+http://nerdecuador.com/12/?id=1twwG01uvof0iTHCSoaPgWl_JmMUaZwnz
 
 #EXTINF:-1 tvg-logo="http://www.ultrapeliculashd.com/wp-content/uploads/2017/10/r6MqWtJCyybGoP5LUxqNm7q9kwb-185x278.jpg",BLADE RUNNER 2049
-https://drive.google.com/file/d/1nzmJ67sbKL9dipIOCxUpVHaP8divcUVE/view
+http://nerdecuador.com/12/?id=1nzmJ67sbKL9dipIOCxUpVHaP8divcUVE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/BrightPoster.jpeg",BRIGHT 
-https://drive.google.com/file/d/1n3B6mBmT3HA0DeodpiC-dAAlUgHxD823/view
+http://nerdecuador.com/12/?id=1n3B6mBmT3HA0DeodpiC-dAAlUgHxD823
 
 #EXTINF:-1 tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3356/33563662_sa.jpg",JEEPERS CREEPERS III
 https://drive.google.com/file/d/1c_FE8wKssRYQDSRw9FW54roQoYN1k5uI/view
